@@ -1,6 +1,6 @@
-//"Module" Topic:
+//"Module" Topic: 
 
-// If we are about to use many js files in a single project, then we should export every other js file and then we should import all those file in the main js file. Then we can be able to access every js fil inside the main js file itself.
+// If we are about to use many js files in a single project, then we should export every other js file and then we should import all those file in the main js file. Then we can be able to access every js fil inside the main js file itself.(This file explains only about exporting and importing functions. Will discuss about class exporting and importing in the next repository file)
 
 
 import earnMoney from "./app.js";
